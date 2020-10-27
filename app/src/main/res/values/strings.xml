@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DarkModeApp</string>
+    <string name="testing_dark_mode">Testing Dark Mode!</string>
+    <string name="apply_dark_mode">Apply Dark Mode</string>
 </resources>
